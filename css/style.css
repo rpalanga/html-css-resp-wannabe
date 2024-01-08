@@ -47,8 +47,9 @@ img {
 
 /* LAYOUT */
 .container {
-    max-width: 1140px;
+    /* max-width: 1140px; */
     /* test di prova */
+    width: 1140px;
     margin: 0 auto;
     padding: 0 20px;
 }
@@ -130,5 +131,13 @@ img {
  ************************************************/
 
 @media screen and (max-width:768px) {
-   
+   .container{
+    width: 100%;
+   }
+
+}
+
+@media  screen and (max-width: 480px) {
+
+    
 }
