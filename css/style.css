@@ -145,6 +145,24 @@ img {
         align-items: center;
         gap: 20px;
     }
+    .steps .col {
+        
+        width: 90%;
+    }
+    .why-us .col-right {
+        width: 90%;
+    }
+
+    .why-us{
+        background-color: #222222;
+        margin-bottom: 0;
+        padding-top: 50px;
+    }
+    
+    .steps{
+        margin-bottom: 0;
+    }
+
 
     
 }
